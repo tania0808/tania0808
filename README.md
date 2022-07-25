@@ -24,9 +24,10 @@
 I am a Junior Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, originally from Ukraine :ukraine:. Now I'm based in Paris :fr:
 I have recently completed the Web Development Course on <a href="https://openclassrooms.com/fr/paths/556-developpeur-web">OpenClassrooms Platform.</a>
 
----
-
-- 🔭 I’m currently working on building my portfolio projects with React
+<ul>
+  <li> 🤔 I’m looking for a company where I could grow my skill set and follow the best practices in order to excel in web developpment.
+</li>
+- 🔭 I’m currently working on building my portfolio projects with React.
 - :zap: In my free time, I do some sports, read books and tech articles.
 
 
