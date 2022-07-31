@@ -27,7 +27,7 @@ I have recently completed the Web Development Course on <a href="https://opencla
 
 <ul>
   <li> 🤔 I’m looking for a company where I could grow my skill set and follow the best practices in order to excel in web developpment. </li>
-  <li>🔭 I’m currently working on building my portfolio projects with React.</li>
+  <li>🔭 I’m currently working on building projects for my portfolio with React.</li>
   <li> 🌱 I’m currently learning Redux, Firebase, TypeScript and Docker </li>
   <li>:zap: In my free time, I do some sports, read books and tech articles.</li>
 </ul>
