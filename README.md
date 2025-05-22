@@ -22,16 +22,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Junior Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, originally from Ukraine :ukraine:. Now I'm based in Paris :fr:
-I have recently completed the Web Development Course on <a href="https://openclassrooms.com/fr/paths/556-developpeur-web">OpenClassrooms Platform.</a>
-
-<ul>
-  <li> 🤔 I’m looking for a company where I could grow my skill set and follow the best practices in order to excel in web developpment. </li>
-  <li>🔭 I’m currently working on building projects for my portfolio with React.</li>
-  <li> 🌱 I’m currently learning Redux, Firebase, TypeScript and Docker </li>
-  <li>:zap: In my free time, I do some sports, read books and tech articles.</li>
-</ul>
-
+I am a Junior Full-Stask Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, based in France :fr:
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
